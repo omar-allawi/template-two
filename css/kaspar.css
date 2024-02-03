@@ -537,7 +537,7 @@ bottom: -120px;
 /* start stats */
 .Statistics {
     padding-bottom: 60px;
-    background-image: url(/images/blue-stats.jpg);
+    background-image: url(../images/blue-stats.jpg);
     text-align: center;
     background-size: cover;
     position: relative;
